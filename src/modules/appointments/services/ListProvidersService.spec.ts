@@ -1,7 +1,7 @@
 // import AppError from '@shared/errors/AppError';
 
 import FakeUsersRepository from '@modules/users/repositories/fakes/FakeUsersRepository';
-import ListProvidersSerivce from './ListProvidersSerivce';
+import ListProvidersSerivce from './ListProvidersService';
 
 let fakeUsersRepository: FakeUsersRepository;
 let listProviders: ListProvidersSerivce;

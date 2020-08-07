@@ -53,7 +53,7 @@
 **RF**
 
 - O usuario deve poder listar todos os prestadores de servicos cadastrados;
-- O usuario deve poder listar os dias de um mes com pelo menos um horario disponivel de um prestados;
+- O usuario deve poder listar os dias de um mes com pelo menos um horario disponivel de um prestador;
 - O usuario deve poder listar horarios disponiveis em um dia especifico de um prestados;
 - O usuario deve poder realizar um novo agendamento com um prestador;
 
