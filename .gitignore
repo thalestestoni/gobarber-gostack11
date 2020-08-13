@@ -1,4 +1,9 @@
 dist
-node_modules
+node_modules/
+build/
 tmp/*
 !tmp/.gitkeep
+.env
+coverage
+.vscode/
+ormconfig.json
